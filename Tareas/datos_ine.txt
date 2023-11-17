@@ -1,0 +1,13 @@
+nombre: Carlos 
+apellidos: Alejandro 
+direccion: 203
+fecha_nacimiento: 04/11/2000
+sexo: M
+clave_elector: ASDFGH125545
+curp: ASWERTSDFSDFSDFS45551
+estado: Q
+municipio: Benito Juarez
+seccion: 014
+localidad: 011
+emision: 103
+vigencia: 11/28
